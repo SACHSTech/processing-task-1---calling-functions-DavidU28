@@ -31,7 +31,7 @@ public class Sketch extends PApplet {
    */
   public void draw() {
 	  
-	  // Grass
+    // Grass
     fill(100, 250 , 50);
     stroke(0);
     rect(0, 500, 1000, 1000);
